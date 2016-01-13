@@ -1,5 +1,3 @@
-Name: Sunand Iyer
-UNI: sri2117
 
 File Name: percolation2.py
 
